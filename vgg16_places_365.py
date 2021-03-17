@@ -11,6 +11,7 @@ import os
 import warnings
 import numpy as np
 
+import keras
 from keras import backend as K
 from keras.layers import Input
 from keras.layers.core import Activation, Dense, Flatten
